@@ -1,4 +1,4 @@
-# fonts-r-us
+# 🚧 WIP 🚧
 
-WIP 
+
 ### A collection of fonts I have used or collected
